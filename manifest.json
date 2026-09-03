@@ -1,11 +1,11 @@
 {
-    "name": "StoreMind",
-    "short_name": "StoreMind",
+    "name": "Insider",
+    "short_name": "Insider",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "AI-powered inventory planning for retail",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
